@@ -1,0 +1,191 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{72A120E4-362C-45D8-8849-A121CC716A8F}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>ARAD_ANPR</RootNamespace>
+    <AssemblyName>ARAD_ANPR</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <ProjectTypeGuids>{60dc8134-eba5-43b8-bcc9-bb4bc16c2548};{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}</ProjectTypeGuids>
+    <WarningLevel>4</WarningLevel>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xaml">
+      <RequiredTargetFramework>4.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="WeifenLuo.WinFormsUI.Docking">
+      <HintPath>..\EN-HCNetSDKV6.1.9.4_build20220412_win64\C# demo\AppsDemo_build20201230191326\AppsDemo\AppsDemo\bin\x64\WeifenLuo.WinFormsUI.Docking.dll</HintPath>
+    </Reference>
+    <Reference Include="WindowsBase" />
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+  </ItemGroup>
+  <ItemGroup>
+    <ApplicationDefinition Include="App.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </ApplicationDefinition>
+    <Compile Include="CHCNetSDK.cs" />
+    <Compile Include="ImageProcessing\LicensePlateInfo.cs" />
+    <Compile Include="UserInterface\ViewModels\MainWindowViewModel.cs" />
+    <Page Include="UserInterface\MainWindow.xaml">
+      <Generator>MSBuild:Compile</Generator>
+      <SubType>Designer</SubType>
+    </Page>
+    <Compile Include="App.xaml.cs">
+      <DependentUpon>App.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="UserInterface\MainWindow.xaml.cs">
+      <DependentUpon>MainWindow.xaml</DependentUpon>
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <None Include="bin\Debug\ANPRTEst.exe.config" />
+    <None Include="bin\Debug\ARAD_ANPR.exe.config" />
+    <None Include="bin\Debug\GdiPlus.lib" />
+    <None Include="bin\Debug\HCCore.lib" />
+    <None Include="bin\Debug\HCNetSDK.lib" />
+    <None Include="bin\Debug\HCNetSDKCom\HCAlarm.lib" />
+    <None Include="bin\Debug\HCNetSDKCom\HCGeneralCfgMgr.lib" />
+    <None Include="bin\Debug\HCNetSDKCom\HCPreview.lib" />
+    <None Include="bin\Debug\LocalXml.zip" />
+    <None Include="bin\Debug\PlayCtrl.lib" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="References\HCNetSDKCom\HCAlarm.lib" />
+    <None Include="References\HCNetSDKCom\HCGeneralCfgMgr.lib" />
+    <None Include="References\HCNetSDKCom\HCPreview.lib" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\ANPRTEst.exe" />
+    <Content Include="bin\Debug\ANPRTEst.pdb" />
+    <Content Include="bin\Debug\ARAD_ANPR.exe" />
+    <Content Include="bin\Debug\ARAD_ANPR.pdb" />
+    <Content Include="bin\Debug\AudioRender.dll" />
+    <Content Include="bin\Debug\EagleEyeRender.dll" />
+    <Content Include="bin\Debug\Emgu.CV.DebuggerVisualizers.VS2019.dll" />
+    <Content Include="bin\Debug\Emgu.CV.UI.dll" />
+    <Content Include="bin\Debug\Emgu.CV.UI.GL.dll" />
+    <Content Include="bin\Debug\Emgu.CV.World.dll" />
+    <Content Include="bin\Debug\Emgu.CV.World.NetStandard1_4.dll" />
+    <Content Include="bin\Debug\gdiplus.dll" />
+    <Content Include="bin\Debug\HCCore.dll" />
+    <Content Include="bin\Debug\HCNetSDK.dll" />
+    <Content Include="bin\Debug\HCNetSDKCom\AnalyzeData.dll" />
+    <Content Include="bin\Debug\HCNetSDKCom\AudioIntercom.dll" />
+    <Content Include="bin\Debug\HCNetSDKCom\AudioRender.dll" />
+    <Content Include="bin\Debug\HCNetSDKCom\HCAlarm.dll" />
+    <Content Include="bin\Debug\HCNetSDKCom\HCCoreDevCfg.dll" />
+    <Content Include="bin\Debug\HCNetSDKCom\HCDisplay.dll" />
+    <Content Include="bin\Debug\HCNetSDKCom\HCGeneralCfgMgr.dll" />
+    <Content Include="bin\Debug\HCNetSDKCom\HCIndustry.dll" />
+    <Content Include="bin\Debug\HCNetSDKCom\HCPlayBack.dll" />
+    <Content Include="bin\Debug\HCNetSDKCom\HCPreview.dll" />
+    <Content Include="bin\Debug\HCNetSDKCom\HCVoiceTalk.dll" />
+    <Content Include="bin\Debug\HCNetSDKCom\libiconv2.dll" />
+    <Content Include="bin\Debug\HCNetSDKCom\msvcr90.dll" />
+    <Content Include="bin\Debug\HCNetSDKCom\OpenAL32.dll" />
+    <Content Include="bin\Debug\HCNetSDKCom\StreamTransClient.dll" />
+    <Content Include="bin\Debug\HCNetSDKCom\SystemTransform.dll" />
+    <Content Include="bin\Debug\hlog.dll" />
+    <Content Include="bin\Debug\HmMerge.dll" />
+    <Content Include="bin\Debug\hpr.dll" />
+    <Content Include="bin\Debug\HWDecode.dll" />
+    <Content Include="bin\Debug\HXVA.dll" />
+    <Content Include="bin\Debug\libcrypto-1_1-x64.dll" />
+    <Content Include="bin\Debug\libeay32.dll" />
+    <Content Include="bin\Debug\libmmd.dll" />
+    <Content Include="bin\Debug\libssl-1_1-x64.dll" />
+    <Content Include="bin\Debug\Microsoft.VisualStudio.DebuggerVisualizers.dll" />
+    <Content Include="bin\Debug\MP_Render.dll" />
+    <Content Include="bin\Debug\NPQos.dll" />
+    <Content Include="bin\Debug\OpenAL32.dll" />
+    <Content Include="bin\Debug\PlayCtrl.dll" />
+    <Content Include="bin\Debug\ssleay32.dll" />
+    <Content Include="bin\Debug\SuperRender.dll" />
+    <Content Include="bin\Debug\WeifenLuo.WinFormsUI.Docking.dll" />
+    <Content Include="bin\Debug\YUVProcess.dll" />
+    <Content Include="bin\Debug\ZedGraph.dll" />
+    <Content Include="bin\Debug\zlib1.dll" />
+    <Content Include="References\HCCore.dll" />
+    <Content Include="References\HCNetSDK.dll" />
+    <Content Include="References\HCNetSDKCom\AnalyzeData.dll" />
+    <Content Include="References\HCNetSDKCom\AudioIntercom.dll" />
+    <Content Include="References\HCNetSDKCom\AudioRender.dll" />
+    <Content Include="References\HCNetSDKCom\HCAlarm.dll" />
+    <Content Include="References\HCNetSDKCom\HCCoreDevCfg.dll" />
+    <Content Include="References\HCNetSDKCom\HCDisplay.dll" />
+    <Content Include="References\HCNetSDKCom\HCGeneralCfgMgr.dll" />
+    <Content Include="References\HCNetSDKCom\HCIndustry.dll" />
+    <Content Include="References\HCNetSDKCom\HCPlayBack.dll" />
+    <Content Include="References\HCNetSDKCom\HCPreview.dll" />
+    <Content Include="References\HCNetSDKCom\HCVoiceTalk.dll" />
+    <Content Include="References\HCNetSDKCom\libiconv2.dll" />
+    <Content Include="References\HCNetSDKCom\OpenAL32.dll" />
+    <Content Include="References\HCNetSDKCom\StreamTransClient.dll" />
+    <Content Include="References\HCNetSDKCom\SystemTransform.dll" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="bin\Release\" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

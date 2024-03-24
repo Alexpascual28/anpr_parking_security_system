@@ -1,0 +1,57 @@
+﻿<Window x:Class="ARAD_ANPR.UserInterface.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:ARAD_ANPR"
+        xmlns:viewmodels="clr-namespace:ARAD_ANPR.UserInterface.ViewModels"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="600" Width="800" ResizeMode="NoResize">
+      
+      <Grid Background="GhostWhite">
+
+            <Grid.RowDefinitions>
+                  <RowDefinition Height="45"/>
+                  <RowDefinition Height="50"/>
+                  <RowDefinition Height="230"/>
+                  <RowDefinition/>
+            </Grid.RowDefinitions>
+
+            <TextBlock Text="Automatic Number Plate Recognition (ANPR)" 
+                     HorizontalAlignment="Center" 
+                     Grid.Row="0"
+                     FontSize="30"
+                     FontFamily="Segoe UI"
+                     FontWeight="Bold"
+                     Background="Transparent"
+                     Margin="0 5 0 0"/>
+
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center" Grid.Row="1">
+                  <TextBlock Text="Device IP:" VerticalAlignment="Center" Margin="0 0 3 0"/>
+                  <TextBox Width="100" Margin="0 0 10 0" Height="20" Text="{Binding DeviceIP}"/>
+                  <TextBlock Text="Port:" VerticalAlignment="Center" Margin="0 0 3 0"/>
+                  <TextBox Width="100" Margin="0 0 50 0" Height="20" Text="{Binding Port}"/>
+                  <TextBlock Text="User:" VerticalAlignment="Center" Margin="0 0 3 0"/>
+                  <TextBox Width="100" Margin="0 0 10 0" Height="20" Text="{Binding User}"/>
+                  <TextBlock Text="Password:" VerticalAlignment="Center" Margin="0 0 3 0"/>
+                  <TextBox Width="100" Margin="0 0 35 0" Height="20" Text="{Binding Password}"/>
+                  <Button Content="Login" Width="100" Height="35" BorderThickness="2" BorderBrush="Black"/>
+            </StackPanel>
+
+            <StackPanel HorizontalAlignment="Center" Orientation="Horizontal" Grid.Row="2">
+                  <StackPanel HorizontalAlignment="Center" Margin="10 0 10 0">
+                        <TextBlock Text="Camera Preview:" FontWeight="Bold"/>
+                        <Image x:Name="CameraPreview" Source="{Binding PreviewImage}" Height="200" Width="400"/>
+                  </StackPanel>
+                  <StackPanel HorizontalAlignment="Left" Margin="10 0 10 0">
+                        <TextBlock Text="Last Recognised Number Plate Close Up:" FontWeight="Bold"/>
+                        <Image x:Name="NumberPlateCloseUp" Source="{Binding LicensePlateImage}" Height="200" Width="350"/>
+                  </StackPanel>
+            </StackPanel>
+
+            <StackPanel Grid.Row="3" HorizontalAlignment="Center">
+                  <TextBlock Background="Transparent" Text="Number Plate Data" HorizontalAlignment="Center" VerticalAlignment="Top" Height="15" FontWeight="Bold"/>
+                  <DataGrid HorizontalAlignment="Center" Width="750" Height="125" Margin="0 0 0 5" ItemsSource="{Binding DetectedPlatesInfo}"/>
+            </StackPanel>
+      </Grid>
+</Window>
