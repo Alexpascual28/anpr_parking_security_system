@@ -1,0 +1,16 @@
+C:\Source Code\ARAD\ARAD_ANPR\bin\Debug\ARAD_ANPR.exe.config
+C:\Source Code\ARAD\ARAD_ANPR\bin\Debug\ARAD_ANPR.exe
+C:\Source Code\ARAD\ARAD_ANPR\bin\Debug\ARAD_ANPR.pdb
+C:\Source Code\ARAD\ARAD_ANPR\obj\Debug\UserInterface\MainWindow.g.cs
+C:\Source Code\ARAD\ARAD_ANPR\obj\Debug\App.g.cs
+C:\Source Code\ARAD\ARAD_ANPR\obj\Debug\ARAD_ANPR_MarkupCompile.cache
+C:\Source Code\ARAD\ARAD_ANPR\obj\Debug\ARAD_ANPR_MarkupCompile.lref
+C:\Source Code\ARAD\ARAD_ANPR\obj\Debug\UserInterface\MainWindow.baml
+C:\Source Code\ARAD\ARAD_ANPR\obj\Debug\ARAD_ANPR.g.resources
+C:\Source Code\ARAD\ARAD_ANPR\obj\Debug\ARAD_ANPR.Properties.Resources.resources
+C:\Source Code\ARAD\ARAD_ANPR\obj\Debug\ARAD_ANPR.csproj.GenerateResource.cache
+C:\Source Code\ARAD\ARAD_ANPR\obj\Debug\ARAD_ANPR.csproj.CoreCompileInputs.cache
+C:\Source Code\ARAD\ARAD_ANPR\obj\Debug\ARAD_ANPR.csproj.CopyComplete
+C:\Source Code\ARAD\ARAD_ANPR\obj\Debug\ARAD_ANPR.exe
+C:\Source Code\ARAD\ARAD_ANPR\obj\Debug\ARAD_ANPR.pdb
+C:\Source Code\ARAD\ARAD_ANPR\obj\Debug\ARAD_ANPR_Content.g.cs
