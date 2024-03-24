@@ -1,0 +1,22 @@
+C:\Users\tcarroll\source\repos\ANPRTEst\bin\Debug\ANPRTEst.exe.config
+C:\Users\tcarroll\source\repos\ANPRTEst\bin\Debug\ANPRTEst.exe
+C:\Users\tcarroll\source\repos\ANPRTEst\bin\Debug\ANPRTEst.pdb
+C:\Users\tcarroll\source\repos\ANPRTEst\obj\Debug\ANPRTEst.csproj.AssemblyReference.cache
+C:\Users\tcarroll\source\repos\ANPRTEst\obj\Debug\ANPRTEst.csproj.CoreCompileInputs.cache
+C:\Users\tcarroll\source\repos\ANPRTEst\obj\Debug\ANPRTEst.exe
+C:\Users\tcarroll\source\repos\ANPRTEst\obj\Debug\ANPRTEst.pdb
+C:\Users\tcarroll\source\repos\ANPRTEst\obj\Debug\ANPRTEst.csproj.SuggestedBindingRedirects.cache
+C:\Source Code\ARAD\ANPRTEst\bin\Debug\ANPRTEst.exe.config
+C:\Source Code\ARAD\ANPRTEst\bin\Debug\ANPRTEst.exe
+C:\Source Code\ARAD\ANPRTEst\bin\Debug\ANPRTEst.pdb
+C:\Source Code\ARAD\ANPRTEst\obj\Debug\ANPRTEst.csproj.AssemblyReference.cache
+C:\Source Code\ARAD\ANPRTEst\obj\Debug\ANPRTEst.csproj.CoreCompileInputs.cache
+C:\Source Code\ARAD\ANPRTEst\obj\Debug\ANPRTEst.exe
+C:\Source Code\ARAD\ANPRTEst\obj\Debug\ANPRTEst.pdb
+C:\Source Code\ARAD\ANPR\bin\Debug\ANPRTEst.exe.config
+C:\Source Code\ARAD\ANPR\bin\Debug\ANPRTEst.exe
+C:\Source Code\ARAD\ANPR\bin\Debug\ANPRTEst.pdb
+C:\Source Code\ARAD\ANPR\obj\Debug\ANPRTEst.csproj.AssemblyReference.cache
+C:\Source Code\ARAD\ANPR\obj\Debug\ANPRTEst.csproj.CoreCompileInputs.cache
+C:\Source Code\ARAD\ANPR\obj\Debug\ANPRTEst.exe
+C:\Source Code\ARAD\ANPR\obj\Debug\ANPRTEst.pdb

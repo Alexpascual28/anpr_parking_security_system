@@ -1,0 +1,7 @@
+C:\Source Code\ARAD\ANPR\bin\Debug\ANPRTEst.exe.config
+C:\Source Code\ARAD\ANPR\bin\Debug\ANPRTEst.exe
+C:\Source Code\ARAD\ANPR\bin\Debug\ANPRTEst.pdb
+C:\Source Code\ARAD\ANPR\obj\Debug\ANPR.csproj.AssemblyReference.cache
+C:\Source Code\ARAD\ANPR\obj\Debug\ANPR.csproj.CoreCompileInputs.cache
+C:\Source Code\ARAD\ANPR\obj\Debug\ANPRTEst.exe
+C:\Source Code\ARAD\ANPR\obj\Debug\ANPRTEst.pdb
