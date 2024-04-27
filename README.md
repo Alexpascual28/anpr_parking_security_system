@@ -82,7 +82,7 @@
 
 | File                                                                                                 | Summary                         |
 | ---                                                                                                  | ---                             |
-| [test1.cpp](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/test1.cpp) | <code>► INSERT-TEXT-HERE</code> |
+| [test1.cpp](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/test1.cpp) | <code> </code> |
 
 </details>
 
@@ -90,11 +90,11 @@
 
 | File                                                                                                                      | Summary                         |
 | ---                                                                                                                       | ---                             |
-| [CHCNetSDK.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPRTEst/CHCNetSDK.cs)       | <code>► INSERT-TEXT-HERE</code> |
-| [ANPRTEst.sln](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPRTEst/ANPRTEst.sln)       | <code>► INSERT-TEXT-HERE</code> |
-| [Program.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPRTEst/Program.cs)           | <code>► INSERT-TEXT-HERE</code> |
-| [ANPRTEst.csproj](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPRTEst/ANPRTEst.csproj) | <code>► INSERT-TEXT-HERE</code> |
-| [App.config](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPRTEst/App.config)           | <code>► INSERT-TEXT-HERE</code> |
+| [CHCNetSDK.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPRTEst/CHCNetSDK.cs)       | <code> </code> |
+| [ANPRTEst.sln](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPRTEst/ANPRTEst.sln)       | <code> </code> |
+| [Program.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPRTEst/Program.cs)           | <code> </code> |
+| [ANPRTEst.csproj](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPRTEst/ANPRTEst.csproj) | <code> </code> |
+| [App.config](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPRTEst/App.config)           | <code> </code> |
 
 </details>
 
@@ -102,7 +102,7 @@
 
 | File                                                                                                                                 | Summary                         |
 | ---                                                                                                                                  | ---                             |
-| [AssemblyInfo.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPRTEst/Properties/AssemblyInfo.cs) | <code>► INSERT-TEXT-HERE</code> |
+| [AssemblyInfo.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPRTEst/Properties/AssemblyInfo.cs) | <code> </code> |
 
 </details>
 
@@ -110,7 +110,7 @@
 
 | File                                                                                                                                                                          | Summary                         |
 | ---                                                                                                                                                                           | ---                             |
-| [ANPRTEst.csproj.FileListAbsolute.txt](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPRTEst/obj/Debug/ANPRTEst.csproj.FileListAbsolute.txt) | <code>► INSERT-TEXT-HERE</code> |
+| [ANPRTEst.csproj.FileListAbsolute.txt](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPRTEst/obj/Debug/ANPRTEst.csproj.FileListAbsolute.txt) | <code> </code> |
 
 </details>
 
@@ -118,7 +118,7 @@
 
 | File                                                                                                                                        | Summary                         |
 | ---                                                                                                                                         | ---                             |
-| [ANPRTEst.exe.config](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPRTEst/bin/Debug/ANPRTEst.exe.config) | <code>► INSERT-TEXT-HERE</code> |
+| [ANPRTEst.exe.config](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPRTEst/bin/Debug/ANPRTEst.exe.config) | <code> </code> |
 
 </details>
 
@@ -126,11 +126,11 @@
 
 | File                                                                                                                                                       | Summary                         |
 | ---                                                                                                                                                        | ---                             |
-| [ARAD SDK-ANPR.sln](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD SDK-ANPR/ARAD SDK-ANPR.sln)                         | <code>► INSERT-TEXT-HERE</code> |
-| [ARAD SDK-ANPR.vcxproj.filters](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD SDK-ANPR/ARAD SDK-ANPR.vcxproj.filters) | <code>► INSERT-TEXT-HERE</code> |
-| [ARAD SDK-ANPR.vcxproj](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD SDK-ANPR/ARAD SDK-ANPR.vcxproj)                 | <code>► INSERT-TEXT-HERE</code> |
-| [ARAD SDK-ANPR.vcxproj.user](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD SDK-ANPR/ARAD SDK-ANPR.vcxproj.user)       | <code>► INSERT-TEXT-HERE</code> |
-| [Source.cpp](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD SDK-ANPR/Source.cpp)                                       | <code>► INSERT-TEXT-HERE</code> |
+| [ARAD SDK-ANPR.sln](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD SDK-ANPR/ARAD SDK-ANPR.sln)                         | <code> </code> |
+| [ARAD SDK-ANPR.vcxproj.filters](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD SDK-ANPR/ARAD SDK-ANPR.vcxproj.filters) | <code> </code> |
+| [ARAD SDK-ANPR.vcxproj](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD SDK-ANPR/ARAD SDK-ANPR.vcxproj)                 | <code> </code> |
+| [ARAD SDK-ANPR.vcxproj.user](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD SDK-ANPR/ARAD SDK-ANPR.vcxproj.user)       | <code> </code> |
+| [Source.cpp](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD SDK-ANPR/Source.cpp)                                       | <code> </code> |
 
 </details>
 
@@ -138,8 +138,8 @@
 
 | File                                                                                                                                                                                  | Summary                         |
 | ---                                                                                                                                                                                   | ---                             |
-| [ARAD SDK-ANPR.lastbuildstate](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD SDK-ANPR/x64/Debug/ARAD SDK-ANPR.tlog/ARAD SDK-ANPR.lastbuildstate) | <code>► INSERT-TEXT-HERE</code> |
-| [unsuccessfulbuild](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD SDK-ANPR/x64/Debug/ARAD SDK-ANPR.tlog/unsuccessfulbuild)                       | <code>► INSERT-TEXT-HERE</code> |
+| [ARAD SDK-ANPR.lastbuildstate](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD SDK-ANPR/x64/Debug/ARAD SDK-ANPR.tlog/ARAD SDK-ANPR.lastbuildstate) | <code> </code> |
+| [unsuccessfulbuild](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD SDK-ANPR/x64/Debug/ARAD SDK-ANPR.tlog/unsuccessfulbuild)                       | <code> </code> |
 
 </details>
 
@@ -147,16 +147,16 @@
 
 | File                                                                                                                                    | Summary                         |
 | ---                                                                                                                                     | ---                             |
-| [ANPR.sln](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/ANPR.sln)                                 | <code>► INSERT-TEXT-HERE</code> |
-| [ConfigureANPR.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/ConfigureANPR.cs)                 | <code>► INSERT-TEXT-HERE</code> |
-| [CHCNetSDK.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/CHCNetSDK.cs)                         | <code>► INSERT-TEXT-HERE</code> |
-| [ReceiveAlarmListening.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/ReceiveAlarmListening.cs) | <code>► INSERT-TEXT-HERE</code> |
-| [ReceiveAlarmArming.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/ReceiveAlarmArming.cs)       | <code>► INSERT-TEXT-HERE</code> |
-| [Program.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/Program.cs)                             | <code>► INSERT-TEXT-HERE</code> |
-| [App.config](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/App.config)                             | <code>► INSERT-TEXT-HERE</code> |
-| [ANPR.csproj.user](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/ANPR.csproj.user)                 | <code>► INSERT-TEXT-HERE</code> |
-| [ANPR.csproj](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/ANPR.csproj)                           | <code>► INSERT-TEXT-HERE</code> |
-| [AlarmSubscription.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/AlarmSubscription.cs)         | <code>► INSERT-TEXT-HERE</code> |
+| [ANPR.sln](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/ANPR.sln)                                 | <code> </code> |
+| [ConfigureANPR.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/ConfigureANPR.cs)                 | <code> </code> |
+| [CHCNetSDK.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/CHCNetSDK.cs)                         | <code> </code> |
+| [ReceiveAlarmListening.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/ReceiveAlarmListening.cs) | <code> </code> |
+| [ReceiveAlarmArming.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/ReceiveAlarmArming.cs)       | <code> </code> |
+| [Program.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/Program.cs)                             | <code> </code> |
+| [App.config](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/App.config)                             | <code> </code> |
+| [ANPR.csproj.user](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/ANPR.csproj.user)                 | <code> </code> |
+| [ANPR.csproj](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/ANPR.csproj)                           | <code> </code> |
+| [AlarmSubscription.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/AlarmSubscription.cs)         | <code> </code> |
 
 </details>
 
@@ -164,7 +164,7 @@
 
 | File                                                                                                                             | Summary                         |
 | ---                                                                                                                              | ---                             |
-| [AssemblyInfo.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/Properties/AssemblyInfo.cs) | <code>► INSERT-TEXT-HERE</code> |
+| [AssemblyInfo.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/Properties/AssemblyInfo.cs) | <code> </code> |
 
 </details>
 
@@ -172,8 +172,8 @@
 
 | File                                                                                                                                                                      | Summary                         |
 | ---                                                                                                                                                                       | ---                             |
-| [ANPR.csproj.FileListAbsolute.txt](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/obj/Debug/ANPR.csproj.FileListAbsolute.txt)         | <code>► INSERT-TEXT-HERE</code> |
-| [ANPRTEst.csproj.FileListAbsolute.txt](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/obj/Debug/ANPRTEst.csproj.FileListAbsolute.txt) | <code>► INSERT-TEXT-HERE</code> |
+| [ANPR.csproj.FileListAbsolute.txt](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/obj/Debug/ANPR.csproj.FileListAbsolute.txt)         | <code> </code> |
+| [ANPRTEst.csproj.FileListAbsolute.txt](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/obj/Debug/ANPRTEst.csproj.FileListAbsolute.txt) | <code> </code> |
 
 </details>
 
@@ -181,7 +181,7 @@
 
 | File                                                                                                                                    | Summary                         |
 | ---                                                                                                                                     | ---                             |
-| [ANPRTEst.exe.config](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/bin/Debug/ANPRTEst.exe.config) | <code>► INSERT-TEXT-HERE</code> |
+| [ANPRTEst.exe.config](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ANPR/bin/Debug/ANPRTEst.exe.config) | <code> </code> |
 
 </details>
 
@@ -189,14 +189,14 @@
 
 | File                                                                                                                                   | Summary                         |
 | ---                                                                                                                                    | ---                             |
-| [App.xaml.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/App.xaml.cs)                     | <code>► INSERT-TEXT-HERE</code> |
-| [CHCNetSDK.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/CHCNetSDK.cs)                   | <code>► INSERT-TEXT-HERE</code> |
-| [ARAD_ANPR.csproj](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/ARAD_ANPR.csproj)           | <code>► INSERT-TEXT-HERE</code> |
-| [App.xaml](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/App.xaml)                           | <code>► INSERT-TEXT-HERE</code> |
-| [ARAD_ANPR.sln](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/ARAD_ANPR.sln)                 | <code>► INSERT-TEXT-HERE</code> |
-| [ARAD_ANPR.csproj.user](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/ARAD_ANPR.csproj.user) | <code>► INSERT-TEXT-HERE</code> |
-| [arad_anpr](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/arad_anpr)                         | <code>► INSERT-TEXT-HERE</code> |
-| [App.config](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/App.config)                       | <code>► INSERT-TEXT-HERE</code> |
+| [App.xaml.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/App.xaml.cs)                     | <code> </code> |
+| [CHCNetSDK.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/CHCNetSDK.cs)                   | <code> </code> |
+| [ARAD_ANPR.csproj](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/ARAD_ANPR.csproj)           | <code> </code> |
+| [App.xaml](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/App.xaml)                           | <code> </code> |
+| [ARAD_ANPR.sln](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/ARAD_ANPR.sln)                 | <code> </code> |
+| [ARAD_ANPR.csproj.user](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/ARAD_ANPR.csproj.user) | <code> </code> |
+| [arad_anpr](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/arad_anpr)                         | <code> </code> |
+| [App.config](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/App.config)                       | <code> </code> |
 
 </details>
 
@@ -204,11 +204,11 @@
 
 | File                                                                                                                                              | Summary                         |
 | ---                                                                                                                                               | ---                             |
-| [Resources.resx](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/Properties/Resources.resx)               | <code>► INSERT-TEXT-HERE</code> |
-| [AssemblyInfo.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/Properties/AssemblyInfo.cs)             | <code>► INSERT-TEXT-HERE</code> |
-| [Settings.settings](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/Properties/Settings.settings)         | <code>► INSERT-TEXT-HERE</code> |
-| [Resources.Designer.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/Properties/Resources.Designer.cs) | <code>► INSERT-TEXT-HERE</code> |
-| [Settings.Designer.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/Properties/Settings.Designer.cs)   | <code>► INSERT-TEXT-HERE</code> |
+| [Resources.resx](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/Properties/Resources.resx)               | <code> </code> |
+| [AssemblyInfo.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/Properties/AssemblyInfo.cs)             | <code> </code> |
+| [Settings.settings](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/Properties/Settings.settings)         | <code> </code> |
+| [Resources.Designer.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/Properties/Resources.Designer.cs) | <code> </code> |
+| [Settings.Designer.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/Properties/Settings.Designer.cs)   | <code> </code> |
 
 </details>
 
@@ -216,13 +216,13 @@
 
 | File                                                                                                                                                                             | Summary                         |
 | ---                                                                                                                                                                              | ---                             |
-| [ARAD_ANPR.csproj.FileListAbsolute.txt](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/obj/Debug/ARAD_ANPR.csproj.FileListAbsolute.txt) | <code>► INSERT-TEXT-HERE</code> |
-| [MainWindow.g.i.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/obj/Debug/MainWindow.g.i.cs)                                         | <code>► INSERT-TEXT-HERE</code> |
-| [App.g.i.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/obj/Debug/App.g.i.cs)                                                       | <code>► INSERT-TEXT-HERE</code> |
-| [ARAD_ANPR_Content.g.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/obj/Debug/ARAD_ANPR_Content.g.cs)                               | <code>► INSERT-TEXT-HERE</code> |
-| [ARAD_ANPR_Content.g.i.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/obj/Debug/ARAD_ANPR_Content.g.i.cs)                           | <code>► INSERT-TEXT-HERE</code> |
-| [ARAD_ANPR_MarkupCompile.lref](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/obj/Debug/ARAD_ANPR_MarkupCompile.lref)                   | <code>► INSERT-TEXT-HERE</code> |
-| [App.g.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/obj/Debug/App.g.cs)                                                           | <code>► INSERT-TEXT-HERE</code> |
+| [ARAD_ANPR.csproj.FileListAbsolute.txt](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/obj/Debug/ARAD_ANPR.csproj.FileListAbsolute.txt) | <code> </code> |
+| [MainWindow.g.i.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/obj/Debug/MainWindow.g.i.cs)                                         | <code> </code> |
+| [App.g.i.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/obj/Debug/App.g.i.cs)                                                       | <code> </code> |
+| [ARAD_ANPR_Content.g.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/obj/Debug/ARAD_ANPR_Content.g.cs)                               | <code> </code> |
+| [ARAD_ANPR_Content.g.i.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/obj/Debug/ARAD_ANPR_Content.g.i.cs)                           | <code> </code> |
+| [ARAD_ANPR_MarkupCompile.lref](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/obj/Debug/ARAD_ANPR_MarkupCompile.lref)                   | <code> </code> |
+| [App.g.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/obj/Debug/App.g.cs)                                                           | <code> </code> |
 
 </details>
 
@@ -230,8 +230,8 @@
 
 | File                                                                                                                                                   | Summary                         |
 | ---                                                                                                                                                    | ---                             |
-| [MainWindow.g.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/obj/Debug/UserInterface/MainWindow.g.cs)     | <code>► INSERT-TEXT-HERE</code> |
-| [MainWindow.g.i.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/obj/Debug/UserInterface/MainWindow.g.i.cs) | <code>► INSERT-TEXT-HERE</code> |
+| [MainWindow.g.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/obj/Debug/UserInterface/MainWindow.g.cs)     | <code> </code> |
+| [MainWindow.g.i.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/obj/Debug/UserInterface/MainWindow.g.i.cs) | <code> </code> |
 
 </details>
 
@@ -239,8 +239,8 @@
 
 | File                                                                                                                                           | Summary                         |
 | ---                                                                                                                                            | ---                             |
-| [ARAD_ANPR.exe.config](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/bin/Debug/ARAD_ANPR.exe.config) | <code>► INSERT-TEXT-HERE</code> |
-| [ANPRTEst.exe.config](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/bin/Debug/ANPRTEst.exe.config)   | <code>► INSERT-TEXT-HERE</code> |
+| [ARAD_ANPR.exe.config](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/bin/Debug/ARAD_ANPR.exe.config) | <code> </code> |
+| [ANPRTEst.exe.config](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/bin/Debug/ANPRTEst.exe.config)   | <code> </code> |
 
 </details>
 
@@ -248,8 +248,8 @@
 
 | File                                                                                                                                           | Summary                         |
 | ---                                                                                                                                            | ---                             |
-| [MainWindow.xaml](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/UserInterface/MainWindow.xaml)       | <code>► INSERT-TEXT-HERE</code> |
-| [MainWindow.xaml.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/UserInterface/MainWindow.xaml.cs) | <code>► INSERT-TEXT-HERE</code> |
+| [MainWindow.xaml](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/UserInterface/MainWindow.xaml)       | <code> </code> |
+| [MainWindow.xaml.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/UserInterface/MainWindow.xaml.cs) | <code> </code> |
 
 </details>
 
@@ -257,7 +257,7 @@
 
 | File                                                                                                                                                              | Summary                         |
 | ---                                                                                                                                                               | ---                             |
-| [MainWindowViewModel.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/UserInterface/ViewModels/MainWindowViewModel.cs) | <code>► INSERT-TEXT-HERE</code> |
+| [MainWindowViewModel.cs](https://github.com/Alexpascual28/anpr_parking_security_system.git/blob/master/ARAD_ANPR/UserInterface/ViewModels/MainWindowViewModel.cs) | <code> </code> |
 
 </details>
 
